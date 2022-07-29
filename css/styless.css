@@ -1,0 +1,22 @@
+caption{
+    border:2px solid black;
+    background-color:azure;
+}
+table{
+
+    border-collapse: collapse;
+}
+thead tr, th{
+    border: 2px solid black;
+    background-color: cadetblue;
+}
+tbody td{
+    border: 2px solid black;
+    background-color: azure;
+}
+tfoot td{
+    border:2px solid black;
+    background-color: cadetblue;
+    
+    
+}
